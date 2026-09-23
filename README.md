@@ -1,16 +1,16 @@
 # CrimeTraceAI — AI-Powered Cybercrime Investigation & Intelligence Platform
 
-[![Live Application](https://img.shields.io/badge/Live%20Demo-CrimeTraceAI%20SOC-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reshma-kn1805.github.io/Crime-TraceAI/)
-[![Deployment Status](https://img.shields.io/badge/Deployment-GitHub%20Pages-22C55E?style=for-the-badge&logo=github)](https://reshma-kn1805.github.io/Crime-TraceAI/)
+[![Live Working Demo](https://img.shields.io/badge/Live%20Demo-CrimeTraceAI%20App-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crimetraceai.surge.sh)
+[![Deployment Status](https://img.shields.io/badge/Status-Online%20%26%20Live-10B981?style=for-the-badge)](https://crimetraceai.surge.sh)
 [![Build Status](https://img.shields.io/badge/Build-Passing-10B981?style=for-the-badge&logo=vite)](https://github.com/reshma-kn1805/Crime-TraceAI)
 [![Operational Jurisdiction](https://img.shields.io/badge/Jurisdiction-India%20Cyber%20Crime%20Cells-00B4D8?style=for-the-badge&logo=shield)](https://cybercrime.gov.in)
 [![Security Standard](https://img.shields.io/badge/Statutory-IT%20Act%202000%20%7C%20Sec%2065B-8B5CF6?style=for-the-badge)](https://www.meity.gov.in)
 
-> 🚀 **Live Working App URL (GitHub Pages)**:  
-> **[https://reshma-kn1805.github.io/Crime-TraceAI/](https://reshma-kn1805.github.io/Crime-TraceAI/)**
-> 
-> ⚡ **Instant 1-Click Live Deployments (Free)**:  
-> [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reshma-kn1805/Crime-TraceAI) &nbsp; [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/reshma-kn1805/Crime-TraceAI)
+> 🟢 **LIVE WORKING APPLICATION**:  
+> 👉 **[https://crimetraceai.surge.sh](https://crimetraceai.surge.sh)** 👈
+>
+> 🌐 **Alternative Live Mirror (GitHub Pages)**: [https://reshma-kn1805.github.io/Crime-TraceAI/](https://reshma-kn1805.github.io/Crime-TraceAI/)  
+> ⚡ **Deploy to Vercel**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reshma-kn1805/Crime-TraceAI)
 
 **CrimeTraceAI** is a state-of-the-art cybercrime investigation, intelligence analysis, and case management platform built specifically for Indian law-enforcement agencies (Cyber Crime Cells, State Police Specialized Units, and Central Law Enforcement Agencies working in coordination with India's National Cyber Crime Reporting ecosystem and I4C).
 
