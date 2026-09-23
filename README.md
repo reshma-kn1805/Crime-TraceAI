@@ -1,8 +1,13 @@
 # CrimeTraceAI — AI-Powered Cybercrime Investigation & Intelligence Platform
 
+[![Live Application](https://img.shields.io/badge/Live%20Demo-CrimeTraceAI%20SOC-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reshma-kn1805.github.io/Crime-TraceAI/)
+[![Deployment Status](https://img.shields.io/badge/Deployment-GitHub%20Pages-22C55E?style=for-the-badge&logo=github)](https://reshma-kn1805.github.io/Crime-TraceAI/)
 [![Build Status](https://img.shields.io/badge/Build-Passing-10B981?style=for-the-badge&logo=vite)](https://github.com/reshma-kn1805/Crime-TraceAI)
 [![Operational Jurisdiction](https://img.shields.io/badge/Jurisdiction-India%20Cyber%20Crime%20Cells-00B4D8?style=for-the-badge&logo=shield)](https://cybercrime.gov.in)
 [![Security Standard](https://img.shields.io/badge/Statutory-IT%20Act%202000%20%7C%20Sec%2065B-8B5CF6?style=for-the-badge)](https://www.meity.gov.in)
+
+> 🚀 **Live Deployment**: Access the active CrimeTraceAI SOC platform directly at:  
+> **[https://reshma-kn1805.github.io/Crime-TraceAI/](https://reshma-kn1805.github.io/Crime-TraceAI/)**
 
 **CrimeTraceAI** is a state-of-the-art cybercrime investigation, intelligence analysis, and case management platform built specifically for Indian law-enforcement agencies (Cyber Crime Cells, State Police Specialized Units, and Central Law Enforcement Agencies working in coordination with India's National Cyber Crime Reporting ecosystem and I4C).
 
