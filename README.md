@@ -6,8 +6,11 @@
 [![Operational Jurisdiction](https://img.shields.io/badge/Jurisdiction-India%20Cyber%20Crime%20Cells-00B4D8?style=for-the-badge&logo=shield)](https://cybercrime.gov.in)
 [![Security Standard](https://img.shields.io/badge/Statutory-IT%20Act%202000%20%7C%20Sec%2065B-8B5CF6?style=for-the-badge)](https://www.meity.gov.in)
 
-> 🚀 **Live Deployment**: Access the active CrimeTraceAI SOC platform directly at:  
+> 🚀 **Live Working App URL (GitHub Pages)**:  
 > **[https://reshma-kn1805.github.io/Crime-TraceAI/](https://reshma-kn1805.github.io/Crime-TraceAI/)**
+> 
+> ⚡ **Instant 1-Click Live Deployments (Free)**:  
+> [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reshma-kn1805/Crime-TraceAI) &nbsp; [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/reshma-kn1805/Crime-TraceAI)
 
 **CrimeTraceAI** is a state-of-the-art cybercrime investigation, intelligence analysis, and case management platform built specifically for Indian law-enforcement agencies (Cyber Crime Cells, State Police Specialized Units, and Central Law Enforcement Agencies working in coordination with India's National Cyber Crime Reporting ecosystem and I4C).
 
